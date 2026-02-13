@@ -1,0 +1,9 @@
+- https://github.com/addyosmani/web-quality-skills
+- https://github.com/vercel-labs/skills
+- https://github.com/anthropics/skills
+- https://github.com/intellectronica/agent-skills
+- https://github.com/sickn33/antigravity-awesome-skills/tree/main
+- https://github.com/itsmostafa/aws-agent-skills
+- https://github.com/AgriciDaniel/claude-seo
+- https://github.com/geekjourneyx/mind-skills
+- https://github.com/krishnakanthb13/everything-antigravity
