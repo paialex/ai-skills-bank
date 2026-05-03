@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Tutorial Builder"
+  short_description: "Generate interactive project tutorials"
+  default_prompt: "Use $project-tutorial-builder to analyze this repository and prepare an interactive tutorial package."
